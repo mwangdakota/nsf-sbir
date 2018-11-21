@@ -367,6 +367,55 @@
   startDate: 08/01/2013
   expDate: 04/30/2017
   title: 'SBIR Phase II:  Semi-Automated Masonry (SAM) Robotic System'
+- abstractText: |-
+    This SBIR Phase I project will demonstrate a novel method for additively manufacturing textile products. Presently, the clothing manufacturing industry still relies on manual sewing machines that were invented over one hundred and seventy years ago. This system limits the manufacturing process and textile capability; an abundance of steps leads to waste, inefficiencies, and segmented products. Further, due to the low cost of foreign labor, the US textile industry has essentially stalled, as 97.3 percent of all clothing sold in the United States in 2015 was imported. This project seeks to develop a novel method for manufacturing textile products by employing additive manufacturing methodologies to automate the production process, while simultaneously enabling complete customization and on-demand production. This technology will enable premium and competitive textile manufacturing to return from overseas, creating high value-added jobs and a designer community in the United States while also generating tax revenue. In the same way that 3D Printing technology has revolutionized the hard goods manufacturing process, this project seeks to create an entire new industry of additively manufactured textile products, enabling significant opportunities for future innovation.
+
+    This project develops a novel technology to manufacture near-net-shape three dimensional textile products. To develop this technology, this project will first prove feasibility through creating constituent textile panels of non-standard shapes with 3D topography, laying the foundation for continued development into fully three-dimensional, seamless, finished products produced in-situ. By additively producing garments from a unique 3D model, complete customization to each individual consumer is possible on a large scale- though this has never before been accomplished. Further, through the on-demand production of clothing customized to individual consumers, the need for substantial inventory buildup is eliminated. In this way, additively manufactured textile products are both more desirable to consumers and more economical to producers. As such, the societal and environmental benefits of automated and on-demand textile manufacturing within the United States are significant, including eliminating massive amounts of waste from typical cut-and-sew manufacturing techniques, revamping a struggling American manufacturing industry, and minimizing the economical, environmental, and geopolitical implications of the United States' current dependence on a convoluted global supply chain.
+  awardeeAddress: 2990 Capital Dr
+  awardeeCity: Eugene
+  awardeeCountryCode: US
+  awardeeName: unspun, Inc.
+  awardeeStateCode: OR
+  awardeeZipCode: '974031842'
+  fundsObligatedAmt: '225000'
+  fundProgramName: SMALL BUSINESS PHASE I
+  id: '1721773'
+  piEmail: beth@unspuntech.com
+  piFirstName: Elizabeth
+  piLastName: Esponnette
+  piMiddeInitial: F
+  piPhone: '2075778745'
+  poName: Rajesh Mehta
+  date: 07/11/2017
+  startDate: 07/01/2017
+  expDate: 02/28/2018
+  title: 'SBIR Phase I: An additive method for manufacturing customized textile products'
+- abstractText: |-
+    This Small Business Innovation Research (SBIR) Phase II project will demonstrate an additive manufacturing process to produce 3-D woven textile products at scale. Presently, the clothing manufacturing industry still relies on manual sewing machines that were invented over one-hundred and seventy years ago. This system limits the manufacturing process and textile capability; an abundance of steps leads to waste, inefficiencies, and segmented products. Further, due to the low cost of foreign labor, the US textile industry has effectively come to a halt: 97.3 percent of all clothing sold in the United States in 2015 was imported. This project seeks to develop a novel method for manufacturing woven textile products by employing additive manufacturing methodologies to automate the production process, while simultaneously enabling complete customization and on-demand production. This technology will enable premium and competitive textile manufacturing to return from overseas, creating high value-added jobs and a designer community in the United States while also generating tax revenue. In the same way that 3-D printing technology has revolutionized the hard goods manufacturing process, this project seeks to create an entire new industry of additively manufactured textile products, enabling significant opportunities for future innovation.
+
+    This project develops a novel technology to manufacture near-net-shape three dimensional woven textile products. To develop this technology, this project first proved feasibility through creating constituent textile panels of non-standard shapes with 3-D topography in Phase I, laying the foundation for continued development into fully three-dimensional, seamless, finished products produced in-situ through Phase II. By additively producing garments from a unique 3-D model complete customization to each individual consumer is possible on a large scale, though this has never before been accomplished. Further, through the on-demand production of clothing customized to individual consumers, the need for substantial inventory buildup is eliminated. In this way, additively manufactured textile products are both more desirable to consumers and more economical to producers. As such, the societal and environmental benefits of automated and on-demand textile manufacturing within the United States are significant, including eliminating massive amounts of waste from typical cut-and-sew manufacturing techniques, revamping a struggling American manufacturing industry, and minimizing the economical, environmental, and geopolitical implications of the United States? current dependence on a convoluted global supply chain.
+
+    This award reflects NSF's statutory mission and has been deemed worthy of support through evaluation using the Foundation's intellectual merit and broader impacts review criteria.
+  awardeeAddress: 2990 Capital Dr
+  awardeeCity: Eugene
+  awardeeCountryCode: US
+  awardeeName: unspun, Inc.
+  awardeeStateCode: OR
+  awardeeZipCode: '974031842'
+  fundsObligatedAmt: '750000'
+  fundProgramName: SMALL BUSINESS PHASE II
+  id: '1831088'
+  piEmail: beth@unspuntech.com
+  piFirstName: Elizabeth
+  piLastName: Esponnette
+  piMiddeInitial: F
+  piPhone: '2075778745'
+  poName: Linda Molnar
+  date: 09/14/2018
+  startDate: 09/15/2018
+  expDate: 08/31/2020
+  title: 'SBIR Phase II:  An additive method for manufacturing customized textile
+    products'
 - abstractText: "This Small Business Innovation Research Phase I project will address
     the challenge of retrofit cleaning and pretreatment of steam condenser tubes prior
     to the deposition of a performance-enhancing coating. By eliminating the buildup
@@ -990,30 +1039,6 @@
   expDate: 09/30/2020
   title: 'SBIR Phase II:  A computational and experimental platform for the automated
     design of organisms used in the production of biochemicals'
-- abstractText: |-
-    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project has the potential to help enhance disease resistance in poultry and increase yields due to the delivery of only healthy, fully vaccinated chicks to farms. These healthier chicks will reduce the need for antibiotics in poultry, aiding to combat antimicrobial resistance.  This technology has immediate applications in other food animal industries and fisheries, and allows for data capture on numbers of animals and types of treatments given. Broader applications would include any image capture and analysis that relies on analytics to identify target areas for delivery of substances to live animals or humans.
-
-
-    This SBIR Phase II project will allow for the advancement and commercialization of imaging technologies for the use of screening and targeting live animals. This proposal brings innovation in the care of food animals allowing for producers to move away from flock health and focus on the care of individual animals. This will be a dramatic change for the poultry industry, but is necessary in the face of antibiotic removal to be able to improve the current vaccination efficiencies and screen chicks for health status. Individualized care is currently not possible due to the high throughput needed to keep pace with large scale commercial hatchery operation. The technical challenges this proposal will overcome include 1) the safe and effective handling of chicks in an automated system that can process 100,000 chicks per hour, 2) the development of imaging systems for health checks and target recognition, 3) the delivery of the appropriate dose of vaccine with the correct amount of agents (virus, bacteria, parasite, and other agents) while not damaging the agents during delivery, and 4) development of a system that is rugged and robust enough to survive in a hatchery environment.
-  awardeeAddress: 2804 Glen Burnie Dr
-  awardeeCity: Raleigh
-  awardeeCountryCode: US
-  awardeeName: APPLIED LIFESCIENCES & SYSTEMS POULTRY, INC.
-  awardeeStateCode: NC
-  awardeeZipCode: '276073009'
-  fundsObligatedAmt: '750000'
-  fundProgramName: SMALL BUSINESS PHASE II
-  id: '1758659'
-  piEmail: ramin.karimpour@als-s.com
-  piFirstName: Ramin
-  piLastName: Karimpour
-  piPhone: '9783376198'
-  poName: Ruth M. Shuman
-  date: 02/06/2018
-  startDate: 02/01/2018
-  expDate: 01/31/2020
-  title: 'SBIR Phase II:  Innovative High Throughput Automated System for Individualized
-    Poultry Vaccination and Recognition and Removal of Unhealthy Chicks'
 - abstractText: "The broader impact/commercial potential of this Small Business Technology
     Transfer (STTR) project will be the development of a platform technology for high-throughput
     protein expression. The current standard for expressing panels of proteins involves
@@ -3326,6 +3351,55 @@
   expDate: 12/31/2014
   title: 'SBIR Phase I:  Developing a personality and usage-based user model for an
     advanced personalized learning system for pre-collegiate and remedial mathematics'
+- abstractText: "This SBIR Phase II project develops a new web-based publishing paradigm
+    that creates interactive learning content for university-level science, technology,
+    engineering, and math (STEM) fields. The interactive content, featuring animations,
+    interactive question sets, and online tools, along with some text, may replace
+    or enhance traditional textbooks, with studies showing significant improvements
+    in student engagement and learning outcomes. The project addresses the nationwide
+    high dropout rates of STEM students, due in part to outmoded learning materials.
+    Such dropout rates not only prevent students from achieving their career goals,
+    but result in a shortage of college graduates in nationally-critical STEM fields.
+    The project creates novel web-based tools that empower teachers, and even students,
+    to straightforwardly contribute new interactive content, thus tapping the latent
+    talent and energy of many thousands of people. The project creates automated and
+    human-overseen processes that efficiently and effectively percolate the highest-quality
+    contributions to the top of lists, enabling content to be created and maintained
+    at large scale and low cost. The project's new publishing paradigm can disrupt
+    the existing publishing industry. The interactive quality content can increase
+    the number of students who successfully graduate in STEM fields, which can strengthen
+    the nation's economy and competitiveness. \n\nThe project develops a new web-based
+    content authoring and delivery framework that supports a novel curated-crowdsourced
+    publishing paradigm. The framework tightly integrates collaborative web-based
+    authoring with delivery of animated interactive web-based content. The project
+    develops elegant tools for instructors, and even students, to contribute new interactive
+    items. Such tools include a novel browser-based animation creation tool, which
+    allows powerful animations to be easily and quickly created via any web browser
+    without requiring application installation or requiring extensive tool training.
+    The project creates and tests new processes that, via a combination of peer evaluations,
+    usage data, and assessments, automatically percolate quality contributions to
+    the top, for final curation by instructors, authors, or editors. Such percolation
+    crowdsourcing can yield superior learning materials, at scale and cost-effectively,
+    while simultaneously yielding substantially lower prices than traditional textbooks."
+  awardeeAddress: 24652 Hutchinson Road
+  awardeeCity: Los Gatos
+  awardeeCountryCode: US
+  awardeeName: Zyante Inc
+  awardeeStateCode: CA
+  awardeeZipCode: '950339410'
+  fundsObligatedAmt: '1366989'
+  fundProgramName: SMALL BUSINESS PHASE II
+  id: '1430537'
+  piEmail: smita.bakshi@zyante.com
+  piFirstName: Smita
+  piLastName: Bakshi
+  piPhone: '5105414434'
+  poName: Rajesh Mehta
+  date: 08/25/2014
+  startDate: 09/01/2014
+  expDate: 08/31/2018
+  title: 'SBIR Phase II:  Developing a web-based authoring framework for animated
+    interactive university STEM web content via curated crowdsourcing'
 - abstractText: "This SBIR Phase II project develops novel adaptive techniques for
     web-based learning materials, and creates Algebra and Statistics content using
     those techniques. College textbooks and homework are being replaced with web-based
@@ -3378,55 +3452,6 @@
   expDate: 02/28/2019
   title: 'SBIR Phase II:  Developing a Structured Student-guided Personalized Learning
     System for Mathematics'
-- abstractText: "This SBIR Phase II project develops a new web-based publishing paradigm
-    that creates interactive learning content for university-level science, technology,
-    engineering, and math (STEM) fields. The interactive content, featuring animations,
-    interactive question sets, and online tools, along with some text, may replace
-    or enhance traditional textbooks, with studies showing significant improvements
-    in student engagement and learning outcomes. The project addresses the nationwide
-    high dropout rates of STEM students, due in part to outmoded learning materials.
-    Such dropout rates not only prevent students from achieving their career goals,
-    but result in a shortage of college graduates in nationally-critical STEM fields.
-    The project creates novel web-based tools that empower teachers, and even students,
-    to straightforwardly contribute new interactive content, thus tapping the latent
-    talent and energy of many thousands of people. The project creates automated and
-    human-overseen processes that efficiently and effectively percolate the highest-quality
-    contributions to the top of lists, enabling content to be created and maintained
-    at large scale and low cost. The project's new publishing paradigm can disrupt
-    the existing publishing industry. The interactive quality content can increase
-    the number of students who successfully graduate in STEM fields, which can strengthen
-    the nation's economy and competitiveness. \n\nThe project develops a new web-based
-    content authoring and delivery framework that supports a novel curated-crowdsourced
-    publishing paradigm. The framework tightly integrates collaborative web-based
-    authoring with delivery of animated interactive web-based content. The project
-    develops elegant tools for instructors, and even students, to contribute new interactive
-    items. Such tools include a novel browser-based animation creation tool, which
-    allows powerful animations to be easily and quickly created via any web browser
-    without requiring application installation or requiring extensive tool training.
-    The project creates and tests new processes that, via a combination of peer evaluations,
-    usage data, and assessments, automatically percolate quality contributions to
-    the top, for final curation by instructors, authors, or editors. Such percolation
-    crowdsourcing can yield superior learning materials, at scale and cost-effectively,
-    while simultaneously yielding substantially lower prices than traditional textbooks."
-  awardeeAddress: 24652 Hutchinson Road
-  awardeeCity: Los Gatos
-  awardeeCountryCode: US
-  awardeeName: Zyante Inc
-  awardeeStateCode: CA
-  awardeeZipCode: '950339410'
-  fundsObligatedAmt: '1366989'
-  fundProgramName: SMALL BUSINESS PHASE II
-  id: '1430537'
-  piEmail: smita.bakshi@zyante.com
-  piFirstName: Smita
-  piLastName: Bakshi
-  piPhone: '5105414434'
-  poName: Rajesh Mehta
-  date: 08/25/2014
-  startDate: 09/01/2014
-  expDate: 08/31/2018
-  title: 'SBIR Phase II:  Developing a web-based authoring framework for animated
-    interactive university STEM web content via curated crowdsourcing'
 - abstractText: |-
     This SBIR Phase 1 project will create an engaging online learning game using venomous marine snails as a conduit to explore scientific issues in nature through creative problem solving. The USA is currently ranked 52nd in the world in science, technology, engineering, and mathematics (STEM) education. This is detrimental intellectually and economically to the future of American society. Recent studies have indicated it is not what we teach, but how we teach that enhances student-learning abilities, particularly as it pertains to STEM. A strong case is being made for using learning games to convey educational content. This project is driven by the research objectives to understand how children learn specific science content and why certain game elements are better suited to convey scientific material. The outcome of this project will be a propriety digital learning game including a unique parent/player assessment tool used to measure novel STEM content during game playing and extending opportunities for learners to engage in ongoing scientific research ("citizen science"). Commercialization of the products created in this project will transform scientific discoveries in predatory marine snail research for social and economic benefit to meet the NSF's mission of supporting education initiatives that improve the lives of U.S. Citizens, and generate income for tax revenue and jobs via the employment of software designers, educators and scientists.
 
@@ -4721,75 +4746,6 @@
   title: 'SBIR Phase II:  Envimetric - Soil and water contamination predictive modeling
     tools'
 - abstractText: |-
-    The broader impact/commercial potential of this Small Business Technology Transfer (STTR) Phase I project will be to enable affordable access to quantum annealing quantum computers and to take the complexity out of the programming and application hosting tasks, which currently poses a major barrier of entry for potential users. The company expects quantum computing technology in the next few years to disrupt significant portions of the high-performance-computing environment for optimization problems, which has previously been characterized by slow and incremental performance improvements. This project would yield a platform that both increases the efficiency and lowers the cost of analyzing complex optimization problems, which could spur fast-paced innovation in wide areas of the economy that tackle such issues. These sectors include energy distribution, pharmaceutical design, cancer research, data analytics, cybersecurity, autonomous systems, planning and scheduling activities, financial services such as risk management and portfolio optimization, and basic and applied research in physics and chemistry.  In each of these disciplines, there are optimization-based computational problems that are currently intractable. The results of this research should enable a much larger community of experts to use the power of quantum computing to solve these important but currently intractable problems.
-
-    This Small Business Technology Transfer (STTR) Phase I project addresses the need for a cloud-based platform for using quantum annealing computing technology. Quantum annealing computers have come to market in the last few years, and research laboratories and universities have used these machines to explore algorithms that could eventually be solved efficiently on them. Despite advances in performance of quantum annealing computers, little effort has been directed toward developing programming environments and tools that provide simple and inexpensive access to quantum computing capabilities. This project researches a platform-as-a-service (PaaS) with a suite of front-end and back-end tools that efficiently transform high-level computing problems into binary optimization formulations suitable for quantum annealing, simplifying and automating the low-level details and domain knowledge currently necessary to perform useful calculations. This project will further develop the PaaS to include a classical-quantum computing environment and framework for analysis of large data sets using standard distributed computing tools. The research explores the best software tools and platform methods to integrate emerging quantum computing capabilities into workflows by streamlining and making affordable the processing of data and by decomposing real-world problems into sub-problems amenable to quantum computers of today and in the future.
-  awardeeAddress: 125 University Ave, Ste 260
-  awardeeCity: Palo Alto
-  awardeeCountryCode: US
-  awardeeName: QC Ware Corp.
-  awardeeStateCode: CA
-  awardeeZipCode: '943011664'
-  fundsObligatedAmt: '224258'
-  fundProgramName: STTR PHASE I
-  id: '1648832'
-  piEmail: asier.ozaeta@qcware.com
-  piFirstName: Asier
-  piLastName: Ozaeta
-  piPhone: '6126073651'
-  poName: Peter Atherton
-  date: 12/16/2016
-  startDate: 01/01/2017
-  expDate: 12/31/2017
-  title: 'STTR Phase I:  A Cloud-Based Development Framework and Tool Suite for an
-    Adiabatic Quantum Computer'
-- abstractText: "The broader impact/commercial potential of this Small Business Innovation
-    Research (SBIR) Phase II project will to enable inexpensive access to quantum
-    computing (QC) and to take the complexity out of the programming and application
-    hosting tasks, which currently pose a major barrier to entry for potential users.
-    QC technology is expected to disrupt significant portions of the high-performance
-    computing environment for optimization problems, which has previously been characterized
-    by slow and incremental performance improvements. This project would yield a platform
-    that both increases the efficiency and lowers the cost of analyzing complex optimization
-    problems, which could spur fast-paced innovation in wide areas of the economy
-    that tackle such issues. \n\nThis Small Business Innovation Research (SBIR) Phase
-    II project addresses the need for a cloud-based platform for using QC technology.
-    Early-generation quantum computers have been introduced by multiple hardware vendors.
-    Despite advances in performance of QC processors, little effort has been directed
-    toward developing programming environments and applications that can provide simple
-    and inexpensive access to QC capabilities and that can exploit the power that
-    QC systems will have in the near future. This project will develop a suite of
-    front-end and back-end tools that efficiently transform high-level computing problems
-    into formulations for circuit-model QC systems, abstracting away the physical
-    low-level details and domain knowledge currently necessary to build QC applications.
-    The project will further develop a set of applications in optimization, search,
-    and machine learning. The proposed research will explore the best software tools
-    and platform methods for integrating emerging QC capabilities into enterprise
-    and research workflows by streamlining and making affordable the decomposition
-    and formulation of real-world problems into implementations that run on quantum
-    processors.\n\nThis award reflects NSF's statutory mission and has been deemed
-    worthy of support through evaluation using the Foundation's intellectual merit
-    and broader impacts review criteria."
-  awardeeAddress: 125 University Ave, Ste 260
-  awardeeCity: Palo Alto
-  awardeeCountryCode: US
-  awardeeName: QC Ware Corp.
-  awardeeStateCode: CA
-  awardeeZipCode: '943011664'
-  fundsObligatedAmt: '1421129'
-  fundProgramName: SMALL BUSINESS PHASE II
-  id: '1758536'
-  piEmail: randall.correll@qcware.com
-  piFirstName: Randall
-  piLastName: Correll
-  piPhone: '7038672395'
-  poName: Peter Atherton
-  date: 04/04/2018
-  startDate: 04/01/2018
-  expDate: 09/30/2020
-  title: 'SBIR Phase II:  A Cloud-Based Development Framework and Tool Suite for Quantum
-    Computing'
-- abstractText: |-
     The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project will be to allow consumers to buy vehicles enhanced by Advanced Driver Assistance Systems (ADAS) that are more robust and more accurate. Advanced Driver Assistance Systems in general, and fully autonomous vehicles in particular, promise a number of advantages, such as: (1) reducing the number of traffic fatalities in the US and abroad, (2) enabling humans to spend less time driving and more time on other activities, and (3) reducing fossil-fuel emissions. Practical implementations of Advanced Driver Assistance Systems require a few key elements: sensors, perception systems, motion planning systems, and control/actuation systems. Based on extensive discussions with key individuals at automakers and automotive suppliers, developing robust and accurate perception systems is the biggest obstacle toward developing mass-producible autonomous road vehicles.
 
     This Small Business Innovation Research (SBIR) Phase I project will create perception systems that utilize the rapidly evolving technologies of deep learning for computer vision. Specifically, the company will utilize deep learning to provide perceptual systems that are: 1) more robust in the presence of diverse and rapidly evolving sensor configurations; 2) more accurate due to the early fusion of sensor data; and 3) more accurate due to the application of state-of-the-art deep learning algorithms for computer vision. The company is already engaged in developing partnerships with automotive OEMs and semiconductor suppliers that will enable it to deliver proofs-of-concept of its unique approach.
@@ -5955,53 +5911,6 @@
   startDate: 03/01/2016
   expDate: 02/28/2018
   title: 'SBIR Phase II:  A Novel Non-Invasive Intracranial Pressure Monitoring Method'
-- abstractText: |-
-    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase I project is to improve our ability to fight infectious diseases that negatively impact agricultural yields and reduce the efficiency of global food production and distribution systems. This innovation will enhance scientific and technological understanding by leveraging the power of high-throughput sequencing and bioinformatics to provide a pathogen identification and surveillance tool with demonstrated efficacy against known and unknown infectious agents. This platform is fast, sensitive, and cost-effective, and can be used for any animal sample to detect virtually all possible microbes ? even microbes that have never before been characterized. Hundreds of samples can be rapidly screened without relying upon known genetic/genomic data of microbes. The global molecular diagnostics market is expected to grow at a compound annual growth rate (CAGR) of over 14% from 2012 to 2017, with infectious disease testing being the leading application at 26% share, therefore the commercial opportunity of this project is vast.
-
-
-    The proposed project tackles problems arising from low-throughput targeted detection technologies such as PCR, hybridization arrays, and culture. Current diagnostic methods rely on what is already known about target microbe genetics, and provide limited information in the form of presence/absence of a known target sequence. The proposed research objectives are related to lowering the technical risks associated with a high-throughput unbiased pathogen detection platform based on DNA sequencing and Bayesian statistics. The ultimate goal is to develop, standardize and validate our metagenomics pathogen identification platform for use in agricultural detection and biosurveillance contexts, using aquaculture related fish species and their infectious agents as a relevant application. This project  proposes to: 1) characterize relative performance of sequencing platforms for pathogen identification; 2) validate and benchmark our agricultural detection platform using fish samples and spike-ins diagnosed using established methods; and 3) evaluate the use of host gene expression signatures as supporting evidence for infection. The team will obtain metagenomic sequence data from infected fish, compare their analysis results against current methods, and establish the limit of detection using known quantities of pathogenic material.
-  awardeeAddress: 45945 Trefoil Lane
-  awardeeCity: Sterling
-  awardeeCountryCode: US
-  awardeeName: Aperiomics, Inc.
-  awardeeStateCode: VA
-  awardeeZipCode: '201660000'
-  fundsObligatedAmt: '179960'
-  fundProgramName: SMALL BUSINESS PHASE I
-  id: '1415670'
-  piEmail: ecastron@aperiomics.com
-  piFirstName: Eduardo
-  piLastName: Castro-Nallar
-  piPhone: '2027698411'
-  poName: Jesus Soriano Molla
-  date: 05/20/2014
-  startDate: 07/01/2014
-  expDate: 06/30/2015
-  title: 'SBIR Phase I:  Rapid Pathogen Diagnostics and Biosurveillance using Multiplexed
-    High-throughput Sequencing'
-- abstractText: |-
-    The broader impact/commercial potential of this Small Business Innovation Research (SBIR) Phase II project is to improve our ability to fight infectious diseases that negatively impact agricultural yields and reduce the efficiency of global food production and distribution systems. This innovation will enhance scientific and technological understanding by leveraging the power of high-throughput sequencing and bioinformatics to provide a pathogen identification and surveillance tool with demonstrated efficacy against known and unknown infectious agents. This platform is fast, sensitive, and cost-effective, and can be used for any animal sample to detect virtually all possible microbes even microbes that have never before been characterized. Hundreds of samples can be rapidly screened without relying upon known genetic/genomic data of microbes. The global molecular diagnostics market is expected to grow at a compound annual growth rate (CAGR) of over 14% from 2012 to 2017, with infectious disease testing being the leading application at 26% share, therefore the commercial opportunity of this project is vast.
-
-    The proposed project follows up on the validation of the diagnostic platform (SBIR Phase I) and delves deeper into improving virus detection and genetic data generation. In addition, this proposal seeks to develop a basal informatics infrastructure that together with sample preparation improvements will be conducive of scalable, high-throughput analysis of several samples. Current diagnostic methods rely on what is already known about target microbe genetics, and provide limited information in the form of presence/absence of a known target sequence. The SBIR Phase I was instrumental to lowering the technical risks associated with a high-throughput unbiased pathogen detection platform based on DNA sequencing and Bayesian statistics. In the pursue of standardizing and validating our metagenomics pathogen identification platform, this project proposes to: 1) improve viral detection capabilities and accuracy, 2) develop new functionalities, and 3) incorporate Phase I and Phase II advances into an integrated in-house web-accessible interface.
-  awardeeAddress: 45085 University Dr
-  awardeeCity: Ashburn
-  awardeeCountryCode: US
-  awardeeName: Aperiomics, Inc.
-  awardeeStateCode: VA
-  awardeeZipCode: '201472766'
-  fundsObligatedAmt: '1143384'
-  fundProgramName: SMALL BUSINESS PHASE II
-  id: '1534469'
-  piEmail: ychen@aperiomics.com
-  piFirstName: Yuan
-  piLastName: Chen
-  piPhone: '7032290406'
-  poName: Ben Schrag
-  date: 09/11/2015
-  startDate: 09/15/2015
-  expDate: 10/31/2019
-  title: 'SBIR Phase II:  Rapid Pathogen Diagnostics and Biosurveillance using Multiplexed
-    High-throughput Sequencing'
 - abstractText: "This Small Business Innovation Research Phase I project will focus
     on the development of a multiple integrated tip scanning probe device for use
     in semiconductor device failure isolation and analysis. The underlying motivating
@@ -6293,6 +6202,75 @@
   expDate: 01/31/2019
   title: 'SBIR Phase II:  Novel Solid-State Cerenkov Detector for Portable and Wearable
     Neutron Radiation Sensors'
+- abstractText: |-
+    The broader impact/commercial potential of this Small Business Technology Transfer (STTR) Phase I project will be to enable affordable access to quantum annealing quantum computers and to take the complexity out of the programming and application hosting tasks, which currently poses a major barrier of entry for potential users. The company expects quantum computing technology in the next few years to disrupt significant portions of the high-performance-computing environment for optimization problems, which has previously been characterized by slow and incremental performance improvements. This project would yield a platform that both increases the efficiency and lowers the cost of analyzing complex optimization problems, which could spur fast-paced innovation in wide areas of the economy that tackle such issues. These sectors include energy distribution, pharmaceutical design, cancer research, data analytics, cybersecurity, autonomous systems, planning and scheduling activities, financial services such as risk management and portfolio optimization, and basic and applied research in physics and chemistry.  In each of these disciplines, there are optimization-based computational problems that are currently intractable. The results of this research should enable a much larger community of experts to use the power of quantum computing to solve these important but currently intractable problems.
+
+    This Small Business Technology Transfer (STTR) Phase I project addresses the need for a cloud-based platform for using quantum annealing computing technology. Quantum annealing computers have come to market in the last few years, and research laboratories and universities have used these machines to explore algorithms that could eventually be solved efficiently on them. Despite advances in performance of quantum annealing computers, little effort has been directed toward developing programming environments and tools that provide simple and inexpensive access to quantum computing capabilities. This project researches a platform-as-a-service (PaaS) with a suite of front-end and back-end tools that efficiently transform high-level computing problems into binary optimization formulations suitable for quantum annealing, simplifying and automating the low-level details and domain knowledge currently necessary to perform useful calculations. This project will further develop the PaaS to include a classical-quantum computing environment and framework for analysis of large data sets using standard distributed computing tools. The research explores the best software tools and platform methods to integrate emerging quantum computing capabilities into workflows by streamlining and making affordable the processing of data and by decomposing real-world problems into sub-problems amenable to quantum computers of today and in the future.
+  awardeeAddress: 125 University Ave, Ste 260
+  awardeeCity: Palo Alto
+  awardeeCountryCode: US
+  awardeeName: QC Ware Corp.
+  awardeeStateCode: CA
+  awardeeZipCode: '943011664'
+  fundsObligatedAmt: '224258'
+  fundProgramName: STTR PHASE I
+  id: '1648832'
+  piEmail: asier.ozaeta@qcware.com
+  piFirstName: Asier
+  piLastName: Ozaeta
+  piPhone: '6126073651'
+  poName: Peter Atherton
+  date: 12/16/2016
+  startDate: 01/01/2017
+  expDate: 12/31/2017
+  title: 'STTR Phase I:  A Cloud-Based Development Framework and Tool Suite for an
+    Adiabatic Quantum Computer'
+- abstractText: "The broader impact/commercial potential of this Small Business Innovation
+    Research (SBIR) Phase II project will to enable inexpensive access to quantum
+    computing (QC) and to take the complexity out of the programming and application
+    hosting tasks, which currently pose a major barrier to entry for potential users.
+    QC technology is expected to disrupt significant portions of the high-performance
+    computing environment for optimization problems, which has previously been characterized
+    by slow and incremental performance improvements. This project would yield a platform
+    that both increases the efficiency and lowers the cost of analyzing complex optimization
+    problems, which could spur fast-paced innovation in wide areas of the economy
+    that tackle such issues. \n\nThis Small Business Innovation Research (SBIR) Phase
+    II project addresses the need for a cloud-based platform for using QC technology.
+    Early-generation quantum computers have been introduced by multiple hardware vendors.
+    Despite advances in performance of QC processors, little effort has been directed
+    toward developing programming environments and applications that can provide simple
+    and inexpensive access to QC capabilities and that can exploit the power that
+    QC systems will have in the near future. This project will develop a suite of
+    front-end and back-end tools that efficiently transform high-level computing problems
+    into formulations for circuit-model QC systems, abstracting away the physical
+    low-level details and domain knowledge currently necessary to build QC applications.
+    The project will further develop a set of applications in optimization, search,
+    and machine learning. The proposed research will explore the best software tools
+    and platform methods for integrating emerging QC capabilities into enterprise
+    and research workflows by streamlining and making affordable the decomposition
+    and formulation of real-world problems into implementations that run on quantum
+    processors.\n\nThis award reflects NSF's statutory mission and has been deemed
+    worthy of support through evaluation using the Foundation's intellectual merit
+    and broader impacts review criteria."
+  awardeeAddress: 125 University Ave, Ste 260
+  awardeeCity: Palo Alto
+  awardeeCountryCode: US
+  awardeeName: QC Ware Corp.
+  awardeeStateCode: CA
+  awardeeZipCode: '943011664'
+  fundsObligatedAmt: '1421129'
+  fundProgramName: SMALL BUSINESS PHASE II
+  id: '1758536'
+  piEmail: randall.correll@qcware.com
+  piFirstName: Randall
+  piLastName: Correll
+  piPhone: '7038672395'
+  poName: Peter Atherton
+  date: 04/04/2018
+  startDate: 04/01/2018
+  expDate: 09/30/2020
+  title: 'SBIR Phase II:  A Cloud-Based Development Framework and Tool Suite for Quantum
+    Computing'
 - abstractText: |-
     The broader impact/commercial potential of this project is to create a suite of consumer hardware and software products that provide realistic tactile feedback to users who are touching objects in virtual reality (VR) and augmented reality (AR). As evidenced by the current proliferation of low-cost head-mounted displays and motion tracking systems, three-dimensional interaction technologies are revolutionizing how people interact with computers, media, and each other. Since they are currently limited to vision and audio, endowing consumer-level human-computer interfaces with high-fidelity tactile feedback will vastly increase user immersion, making games more fun, online interactions more effective, and tools more efficient. Consequently, this project has the potential to expand the commercial reach of the burgeoning VR/AR market, opening up myriad opportunities for companies particularly in the gaming, entertainment, and e-commerce sectors. The innovation of this project also promises to enhance scientific and technological understanding of haptic human-computer interaction by establishing a new paradigm that blends minimal wearable hardware with sophisticated software algorithms. Finally, commercializing novel interactive technology also has the potential to help inspire a diverse array of young people to pursue a career in the critical areas of science, technology, engineering, and math.
 
@@ -8177,28 +8155,5 @@
   expDate: 03/31/2015
   title: 'SBIR Phase II:  A Robust Caller-ID Alternative for Securing Telephony Based
     Transactions'
-- abstractText: |-
-    This Small Business Innovation Research (SBIR) Phase II project will develop and produce a robust, hand-held, video-rate three-dimensional surface metrology system with vertical and lateral resolution of several micrometers, in order to bridge a critical existing metrology gap for precision-machined surfaces.  Many modern manufactured parts, such as turbine blades, drive shafts, orthopedics, and various additive manufactured components require in-situ metrology with high resolution for accurate characterization during manufacturing and/or maintenance operations.  Current high-resolution surface measurement systems are slow, vibration-sensitive and laboratory-based and thus are impractical for everyday use by manufacturing technicians.  Meanwhile, shop-floor inspection is often only visual, and thus qualitative rather than quantitative, leading both to rejections of acceptable components as well as potential acceptance of failing ones.  The absence of high-precision, in-situ metrology has hindered manufacturers from applying real-time data analysis and closed-loop process controls that can improve yields and reduce manufacturing costs.  This research program will yield a hand-held, easy-to-use, robust, and quantitative shop-floor measurement system, allowing manufacturers to improve lifetimes, performance, and yield as they rapidly assess the features under test and feed the results back to improve process control.
-
-    During Phase I, a breadboard system was designed and implemented using a polarization-based fringe projection method and micropolarizer phase-mask technology to achieve vibration insensitive measurement in a compact package.  This Phase II program leverages that research to design a video-rate, compact, robust and portable system for handheld surface measurements in shop-floor environments. This will first involve improvements to measurement resolution with an improved optical design and new self-calibrating measurement modes; new optical elements will lower noise artifacts caused by imperfections in the earlier design and to reduce system size.  Once performance of the new design is verified, an ergonomic, compact, robust, wireless housing for the instrument must be created to enable shop-floor use; the system must handle drops of over one meter onto concrete, have useful battery life for extended field operations, be light enough to not fatigue users and have intuitive controls and feedback.  A final, critically important development effort will create automated software routines for measurement, analysis, and system diagnostics to enable adoption by unskilled personnel in manufacturing environments.  Lastly, extensive applications testing in the field will allow optimization of the system to handle a wide range of potential use cases and environments.
-  awardeeAddress: 3280 E Hemisphere Loop, Ste 146
-  awardeeCity: Tucson
-  awardeeCountryCode: US
-  awardeeName: 4 D Technology Corporation
-  awardeeStateCode: AZ
-  awardeeZipCode: '857065024'
-  fundsObligatedAmt: '1348048'
-  fundProgramName: SMALL BUSINESS PHASE II
-  id: '1556049'
-  piEmail: erik.novak@4dtechnology.com
-  piFirstName: Erik
-  piLastName: Novak
-  piPhone: '5202945600'
-  poName: Ben Schrag
-  date: 02/17/2016
-  startDate: 03/01/2016
-  expDate: 08/31/2020
-  title: 'SBIR Phase II:  High-Resolution Shop Floor Video-Rate Surface Metrology
-    System'
 ---
 
