@@ -34,6 +34,7 @@ $(function() {
       .toString()
       .trim()
       .toLowerCase()
+      .replace('&amp;', '')
       .replace(/\s+/g, '-')
       .replace(/[^\w\-]+/g, '')
       .replace(/\-\-+/g, '-')
