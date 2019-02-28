@@ -56,9 +56,9 @@ Details for the next {{ site.deadline }} deadline will be posted in {{ site.soli
       {% assign milestone_note = milestone.inactive_note %}
     {% endif %}
 
-    <span class="time">{{ milestone.title | liquify }}</span>
+    <span class="time">{{ milestone.title }}</span>
     <span class="time-description">
-      {{ milestone_description | liquify }}
+      {{ milestone_description }}
       {% if milestone_note %}<small>{{ milestone_note }}</small>{% endif %}
     </span>
 
