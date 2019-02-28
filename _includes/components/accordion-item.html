@@ -12,19 +12,19 @@
         <span class="step-description" >{{ timeline_item[0].inactive_description | liquify | markdownify }}</span>
       {% endif %}
   
-  <div id="{{ timeline_item[0].title | slugify }}" class="usa-accordion-content">
-    {{ timeline_item[0].content | markdownify }}
+  <div id="{{ timeline_item[0].title }}" class="usa-accordion-content">
+    {{ timeline_item[0].content}}
   </div>
   {% else %}
-  <h2><button class="usa-accordion-button" aria-expanded="false" aria-controls="{{ timeline_item[0].title | slugify }}">
+  <h2><button class="usa-accordion-button" aria-expanded="false" aria-controls="{{ timeline_item[0].title }}">
     {{ timeline_item[0].title | default: "" }}
   </button></h2>  
     {% if timeline_item[0].description %}
-      <span class="step-description" >{{ timeline_item[0].description  | liquify | markdownify }}</span>
+      <span class="step-description" >{{ timeline_item[0].description }}</span>
     {% endif %}
   
-  <div id="{{ timeline_item[0].title | slugify }}" class="usa-accordion-content">
-    {{ timeline_item[0].content | markdownify }}
+  <div id="{{ timeline_item[0].title }}" class="usa-accordion-content">
+    {{ timeline_item[0].content }}
   </div>
   {% endif %}
 
