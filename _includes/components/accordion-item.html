@@ -20,7 +20,7 @@
     {{ timeline_item[0].title | default: "" }}
   </button></h2>  
     {% if timeline_item[0].description %}
-      <span class="step-description" >{{ timeline_item[0].description }}</span>
+      <span class="step-description" >{{ timeline_item[0].description | markdownify }}</span>
     {% endif %}
   
   <div id="{{ timeline_item[0].title | slugify }}" class="usa-accordion-content">
