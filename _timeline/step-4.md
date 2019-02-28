@@ -1,6 +1,7 @@
 ---
-title: NEW Submit your Project Pitch (required)
-description: Find out if your project is a good fit for the program. Processing time- up to three weeks.
+title: *NEW* Submit your Project Pitch (required)
+description: Find out if your project is a good fit for the program. <br>
+Processing time- up to three weeks.
 ---
 Submit your Project Pitch using our online form.
 
