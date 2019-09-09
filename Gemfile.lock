@@ -21,7 +21,7 @@ GEM
     concurrent-ruby (1.0.5)
     ethon (0.10.1)
       ffi (>= 1.3.0)
-    ffi (1.9.18)
+    ffi (1.11.1)
     forwardable-extended (2.6.0)
     hash-joiner (0.0.7)
       safe_yaml
