@@ -1,6 +1,6 @@
 ---
 title: Contact us
-permalink: /contact/
+permalink: /adcom/
 layout: secondary
 ---
 <section class="usa-section">
