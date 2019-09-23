@@ -22,8 +22,9 @@ Have a general question or concern? Call our help line at 703-292-8050 or email 
 <div class="usa-content usa-width-one-whole" markdown="1">
 
 ## Adcom Members
-
-
+  <a name="Susan Butts" class="pd-bio"></a>
+  <img src="{{ site.baseurl }}/assets/img/adcom/sButts.jpg}}">
+  <p>Biography <a href="mailto:{{ director.email }}">Send email</a></p>
 </div>
 </div>
 </section>
