@@ -22,9 +22,18 @@ Have a general question or concern? Call our help line at 703-292-8050 or email 
 <div class="usa-content usa-width-one-whole" markdown="1">
 
 ## Adcom Members
-  <a name="Susan Butts" class="pd-bio">Susan Butts</a>
-  <img src="{{ site.baseurl }}/assets/img/adcom/sButts.jpg}}">
-  <p>Biography <a href="mailto:{{ director.email }}">Send email</a></p>
+<ul class="pd-list"> 
+  
+  <li class="pd-card">
+  <img src="{{ site.baseurl }}/assets/img/adcom/susan.jpg" alt="Susan Butts headshot">
+   <span class="pd-list-content">
+        <h3 class="pd-name"><a href="{{ site.baseurl }}/contact/adcom-bios/#butts">Susan Butts</a></h3>
+  </span>
+  </li>
+
+</ul>
+
+
 </div>
 </div>
 </section>
